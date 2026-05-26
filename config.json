@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricspalculate",
+        "uuid": 3775944,
+        "checksum": "t23n5r"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
